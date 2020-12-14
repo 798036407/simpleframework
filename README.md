@@ -1,4 +1,4 @@
-###集成Mybatis Plus步骤
+### 集成Mybatis Plus步骤
 1. 在pom.xml文件引入相关的jar包依赖
 2. 实现XxxMapper接口。通过此接口来操作数据持久化
 3. 对XxxDO实体进行注解的定义，如：数据库表名，字段的定义
